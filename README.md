@@ -7,7 +7,7 @@ See properties based on criteria such as Area, Address, Images
 Get Owner Contact details directly and rent or buy a Property 
 
 
-Property OWNER Module:-
+PROPERTY OWNER Module Features :-
 Owner can register if he is new User
 Owner can login with Username and password
 Add property details - area, facilities , address, Images of the property , Price or Rent
